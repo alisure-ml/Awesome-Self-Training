@@ -4,9 +4,10 @@
 
 ---
 
-- [Self-Training](#Self-Training)
+- [Self-Training](#self-training)
   - [Papers & Code](#papers)
 ---
+
 
 ## Papers
 
