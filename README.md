@@ -38,6 +38,10 @@
 
 * Arxiv - CReST: A Class-Rebalancing Self-Training Framework for Imbalanced Semi-Supervised Learning. [[Paper]](https://arxiv.org/abs/2102.09559) [[PDF]](https://arxiv.org/pdf/2102.09559.pdf)
 
+* Arxiv - Sinkhorn Label Allocation: Semi-Supervised Classification via Annealed Self-Training. [[Paper]](https://arxiv.org/abs/2102.08622) [[PDF]](https://arxiv.org/pdf/2102.08622.pdf)
+
+* Arxiv - SelfHAR: Improving Human Activity Recognition through Self-training with Unlabeled Data. [[Paper]](https://arxiv.org/abs/2102.06073) [[PDF]](https://arxiv.org/pdf/2102.06073.pdf)
+
 * Arxiv - Self-Training for Class-Incremental Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2012.03362) [[PDF]](https://arxiv.org/pdf/2012.03362.pdf)
 
 
@@ -49,4 +53,11 @@
 * Arxiv - Self-Training with Weak Supervision. [[Paper]](https://arxiv.org/abs/2104.05514) [[PDF]](https://arxiv.org/pdf/2104.05514.pdf)
 
 * Arxiv - Self-Training for Class-Incremental Semantic Segmentation. [[Paper]](https://arxiv.org/abs/2012.03362) [[PDF]](https://arxiv.org/pdf/2012.03362.pdf)
+
+## voice
+
+### 2021
+
+* Arxiv - Semi-Supervised Singing Voice Separation with Noisy Self-Training. [[Paper]](https://arxiv.org/abs/2102.07961) [[PDF]](https://arxiv.org/pdf/2102.07961.pdf)
+
 
