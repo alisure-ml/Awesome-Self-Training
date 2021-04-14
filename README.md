@@ -5,7 +5,7 @@
 ---
 
 - [Self-Training](#Self-Training)
-  - [Papers & Code](#Papers)
+  - [Papers & Code](#papers)
 ---
 
 ## Papers
